@@ -1,4 +1,4 @@
-# PredictCreditScore
+# PredictCreditScore (Machine Learning)
 > [link to this dataset](https://www.kaggle.com/datasets/parisrohan/credit-score-classification?datasetId=2289007)
 
 >Content:
